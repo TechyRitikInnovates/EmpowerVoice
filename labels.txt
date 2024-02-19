@@ -1,0 +1,9 @@
+0 Background Noise
+1 Belly Pain
+2 Burping
+3 Discomfort
+4 Hunger
+5 Lonely
+6 Scared
+7 Tired
+8 Too Hot or Cold
